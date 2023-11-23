@@ -1,3 +1,4 @@
+# 경로상 모든 정류장 출력을 위한 역추적 알고리즘
 import pandas as pd
 
 def extract_optimal_path_info(time_to_stops, to_stop_id):
